@@ -81,7 +81,7 @@ export default function DiamondSponsors() {
           component="img"
           src="/static/sponsors/formengine-light.svg"
           alt="formengine"
-          title="Build forms with MUI the smart way"
+          title="Build forms with MUI the smart way!"
           loading="lazy"
           sx={[
             {
