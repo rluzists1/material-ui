@@ -85,7 +85,7 @@ export default function DiamondSponsors() {
           loading="lazy"
           sx={[
             {
-              height: '29px',
+              height: '23.2px',
               width: 'auto',
               maxWidth: '100%',
             },
